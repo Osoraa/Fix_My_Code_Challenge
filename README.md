@@ -1,4 +1,4 @@
-# Solutions to the **_0x00 Fix my Code_** set of tasks
+# Alx Fix My Code challenge
 
 ## Context
 
@@ -7,14 +7,3 @@ The Aim of this Project is to build troubleshooting skills even in languages I h
 Existing codebases with seemingly disguised errors are presented for analysis.
 
 Nothing is coded from scratch, just subtle changes or more significant corrections to the codebase.
-
-[Link](https://github.com/holbertonschool/0x00-Fix_My_Code_Challenge) to existing codebase with errors.
-
-### Requirements
-
-- Linux OS with the following Programs installed;
-
-  - Python
-  - Node
-  - Ruby
-  - gcc >= gnu89
